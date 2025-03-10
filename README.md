@@ -1,6 +1,6 @@
 # Olá, eu sou Douglas! 👋
 
-![Perfil Banner](https://media.licdn.com/dms/image/v2/D4D16AQErPM-zjndHkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719448300413?e=1731542400&v=beta&t=x7X2PQkvH70Slb2dOXs21XDiaEhBmPE71m84FsCNz40) 
+![Perfil Banner](https://media.licdn.com/dms/image/v2/D4D16AQErPM-zjndHkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719448300413?e=1747267200&v=beta&t=6kRbvyDxu4r2toP-xIPCs1n8ozV_z87k-nScgvniDzY) 
 
 ## Sobre Mim
 
