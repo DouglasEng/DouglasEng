@@ -26,7 +26,9 @@ Atualmente, estou focado em:
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=douglasEng&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&theme=gruvbox) 
+| Estatísticas do GitHub | 🔥 Linguagens de Programação Mais Usadas |
+|------------------------|------------------------------------------|
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=douglasEng&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&theme=gruvbox) | ![Top Linguagens Compacto](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasEng&layout=compact&theme=gruvbox) |
 
 ## 📫 Como me encontrar
 
